@@ -1,16 +1,15 @@
-### Hi there 👋
+<!-- My Name -->
+<h1 align="center">Hi there 👋, I'm Mohamed Fawzy</h1>
 
-<!--
-**Fawzy-AI-Explorer/Fawzy-AI-Explorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing -->
+<p  align="center" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F707&vCenter=true&random=false&width=435&lines=Computer+Science+Student" alt="Typing SVG" /></a>
+</p>
+<br>
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About Me -->
+## About Me:
+- 🏫 I am a `Junior` at Faculty of Computers & AI at Cairo University.
+- 💻 I am a `Junior Machine Learning Engineer`.
+<br>
