@@ -1,5 +1,5 @@
 <!-- My Name -->
-<h1 align="center">Hi there 👋, I'm Mohamed Fawzy</h1>
+<h1 align="center">Hi there 👋, I'm Mohammad Fawzy</h1>
 
 <!-- Typing -->
 <p  align="center" >
