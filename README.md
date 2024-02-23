@@ -12,6 +12,7 @@
 ## About Me:
 - 🏫 I am a `Junior` at Faculty of Computers & AI at Cairo University.
 - 💻 I am a `Junior Machine Learning Engineer`.
+- 👨‍💻 I love challenges problem solving.
 <br>
 
 <!-- Contact Me -->
